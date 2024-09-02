@@ -1,0 +1,58 @@
+[
+    {
+        "Model Shape": [
+            4,
+            10,
+            10,
+            1
+        ],
+        "Input Dimension": 3,
+        "Epochs/Steps": 20,
+        "L-p Loss": 2,
+        "Final Interior PDE Loss": 0.013798958621919155,
+        "Final Boundary Condition Loss": 0.0024001561105251312,
+        "Runtime Duration": "1.0 mins 32.138319969177246 secs"
+    },
+    {
+        "Model Shape": [
+            4,
+            10,
+            10,
+            1
+        ],
+        "Input Dimension": 3,
+        "Epochs/Steps": 20,
+        "L-p Loss": "inf",
+        "Final Interior PDE Loss": 1.4515942335128784,
+        "Final Boundary Condition Loss": 0.9830858707427979,
+        "Runtime Duration": "1.0 mins 56.164366722106934 secs"
+    },
+    {
+        "Model Shape": [
+            101,
+            10,
+            10,
+            1
+        ],
+        "Input Dimension": 100,
+        "Epochs/Steps": 20,
+        "L-p Loss": 2,
+        "Final Interior PDE Loss": 69.1749267578125,
+        "Final Boundary Condition Loss": 5.6102495193481445,
+        "Runtime Duration": "11.0 mins 36.233399868011475 secs"
+    },
+    {
+        "Model Shape": [
+            101,
+            10,
+            10,
+            1
+        ],
+        "Input Dimension": 100,
+        "Epochs/Steps": 20,
+        "L-p Loss": "inf",
+        "Final Interior PDE Loss": 7.661276340484619,
+        "Final Boundary Condition Loss": 9.439384460449219,
+        "Runtime Duration": "9.0 mins 28.161552906036377 secs"
+    }
+]

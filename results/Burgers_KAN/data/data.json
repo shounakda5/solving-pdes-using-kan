@@ -1,0 +1,123 @@
+[
+    {
+        "Model Shape": [
+            2,
+            3,
+            3,
+            2,
+            1
+        ],
+        "Optimizer": "LBFGS",
+        "Learning Rate": 1,
+        "Epochs/Steps": 20,
+        "Final Interior PDE Loss": 0.04630221053957939,
+        "Final Boundary Condition Loss": 5.902635166421533e-06,
+        "Final Initial Condition Loss": 0.002570250304415822,
+        "Runtime Duration": "13.0 mins 48.98324632644653 secs"
+    },
+    {
+        "Model Shape": [
+            2,
+            2,
+            1
+        ],
+        "Optimizer": "LBFGS",
+        "Learning Rate": 1,
+        "Epochs/Steps": 20,
+        "Final Interior PDE Loss": 0.15097159147262573,
+        "Final Boundary Condition Loss": 0.00023432952002622187,
+        "Final Initial Condition Loss": 0.005107330624014139,
+        "Runtime Duration": "3.0 mins 56.27415347099304 secs"
+    },
+    {
+        "Model Shape": [
+            2,
+            10,
+            10,
+            5,
+            5,
+            1
+        ],
+        "Optimizer": "LBFGS",
+        "Learning Rate": 1,
+        "Epochs/Steps": 20,
+        "Final Interior PDE Loss": 0.003961546812206507,
+        "Final Boundary Condition Loss": 4.440692919160938e-06,
+        "Final Initial Condition Loss": 0.00013393261178862303,
+        "Runtime Duration": "78.0 mins 36.5972843170166 secs"
+    },
+    {
+        "Model Shape": [
+            2,
+            10,
+            5,
+            3,
+            1
+        ],
+        "Optimizer": "LBFGS",
+        "Learning Rate": 1,
+        "Epochs/Steps": 20,
+        "Final Interior PDE Loss": 0.009442710317671299,
+        "Final Boundary Condition Loss": 1.545588565932121e-05,
+        "Final Initial Condition Loss": 0.0001798907615011558,
+        "Runtime Duration": "36.0 mins 25.942328929901123 secs"
+    },
+    {
+        "Model Shape": [
+            2,
+            3,
+            3,
+            2,
+            1
+        ],
+        "Optimizer": "Adam",
+        "Learning Rate": 0.0001,
+        "Epochs/Steps": 20,
+        "Final Interior PDE Loss": 0.009739222936332226,
+        "Final Boundary Condition Loss": 0.0009784941794350743,
+        "Final Initial Condition Loss": 0.5083605051040649,
+        "Runtime Duration": "0.0 mins 39.70568919181824 secs"
+    },
+    {
+        "Model Shape": [
+            2,
+            2,
+            1
+        ],
+        "Optimizer": "Adam",
+        "Learning Rate": 0.0001,
+        "Epochs/Steps": 20,
+        "Final Interior PDE Loss": 0.024421874433755875,
+        "Final Boundary Condition Loss": 0.11804645508527756,
+        "Final Initial Condition Loss": 0.6965776085853577,
+        "Runtime Duration": "0.0 mins 12.952979564666748 secs"
+    },
+    {
+        "Model Shape": [
+            2,
+            2,
+            1
+        ],
+        "Optimizer": "Adam",
+        "Learning Rate": 0.0001,
+        "Epochs/Steps": 2000,
+        "Final Interior PDE Loss": 0.04375483840703964,
+        "Final Boundary Condition Loss": 0.0032290462404489517,
+        "Final Initial Condition Loss": 0.20889246463775635,
+        "Runtime Duration": "15.0 mins 33.9248046875 secs"
+    },
+    {
+        "Model Shape": [
+            2,
+            2,
+            1
+        ],
+        "Optimizer": "Adam",
+        "Learning Rate": 0.0001,
+        "Epochs/Steps": 20000,
+        "Final Interior PDE Loss": 0.13199622929096222,
+        "Final Boundary Condition Loss": 8.005100971786305e-05,
+        "Final Initial Condition Loss": 0.006664016284048557,
+        "Runtime Duration": "152.0 mins 0.7350311279296875 secs"
+    }
+]
