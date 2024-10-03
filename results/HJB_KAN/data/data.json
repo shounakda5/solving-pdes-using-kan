@@ -54,5 +54,19 @@
         "Final Interior PDE Loss": 7.661276340484619,
         "Final Boundary Condition Loss": 9.439384460449219,
         "Runtime Duration": "9.0 mins 28.161552906036377 secs"
+    },
+    {
+        "Model Shape": [
+            101,
+            10,
+            10,
+            1
+        ],
+        "Input Dimension": 100,
+        "Epochs/Steps": 1000,
+        "L-p Loss": "inf",
+        "Final Interior PDE Loss": 16.386072158813477,
+        "Final Boundary Condition Loss": 0.6206631660461426,
+        "Runtime Duration": "275.0 mins 59.39868879318237 secs"
     }
 ]
